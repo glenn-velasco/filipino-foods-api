@@ -65,7 +65,9 @@ app.get('/api/foods', (request, response) => {
 app.get('/api/foods/:foodName', (request, response) => {
     const requestedName = request.params.foodName.toLowerCase()
     
-    const foundFood = foodCache.find(food => food.name.toLowerCase() === requestedName)
+    const formattedName = requestedName.replace(/-/g, ' ')
+
+    const foundFood = foodCache.find(food => food.name.toLowerCase() === formattedName)
 
     if (foundFood) {
         response.json(foundFood)
