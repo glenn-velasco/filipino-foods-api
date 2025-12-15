@@ -1,6 +1,6 @@
 {
     "name": "Afritada",
     "description": "Afritada is a popular Filipino stew dish featuring chicken, beef, or pork braised in a tomato sauce base with carrots, potatoes, and bell peppers. It is a classic comfort food that is typically served with warm white rice.\n\nThe name \"Afritada\" is derived from the Spanish word \"fritada,\" meaning \"fried,\" referring to the initial step of pan-frying the meat and aromatics before simmering them in the sauce. The dish has Spanish colonial origins but has been adapted over time to suit local Filipino tastes.",
-    "meat": ["chicken, pork"],
+    "meat": ["chicken, pork", "beef"],
     "vegetables": ["garlic", "onion", "bell peppers"]
 }
