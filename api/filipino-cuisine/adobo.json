@@ -1,6 +1,6 @@
 {
     "name" : "Adobo",
-    "description": "Chicken Adobo is an authentic Filipino dish and is one of the mostly recognized Filipino foods. Not to be mistaken with Mexican adobo, this dish is uniquely prepared by stewing chicken in vinegar and soy sauce.",
+    "description": "In the Philippines, adobo is a popular comfort food where ingredients are simmered in a mixture of vinegar, soy sauce, crushed garlic, bay leaves, and black peppercorns. The key characteristic is the use of vinegar for preservation and flavor, a practice that predates Spanish colonization, with the Spanish applying the name \"adobo\" (meaning \"marinade\" in Spanish) to the indigenous method they observed.",
     "meat": ["chicken", "pork"],
     "vegetables": ["garlic"]
 }
