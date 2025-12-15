@@ -1,0 +1,16 @@
+{
+  "name": "Bulalo",
+  "description": "Bulalo is a light-colored soup that is a specialty of the Batangas province. Its main attraction is the beef shank and marrow bones, which are boiled for hours until the collagen melts into the broth. Unlike Nilaga, Bulalo is richer and fattier due to the rendered marrow.",
+  "meat": [
+    "beef shank",
+    "bone marrow"
+  ],
+  "vegetables": [
+    "corn",
+    "cabbage",
+    "pechay",
+    "onion",
+    "scallions",
+    "potato"
+  ]
+}

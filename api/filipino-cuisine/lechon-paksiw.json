@@ -1,0 +1,14 @@
+{
+  "name": "Lechon Paksiw",
+  "description": "Lechon Paksiw is a sweet and tangy stew created as a way to recycle leftover Lechon (roast pig). The meat is simmered in vinegar and liver sauce (sarsa), giving it a distinct dark brown sauce that tastes completely different from the original roasted dish.",
+  "meat": [
+    "lechon (roasted pig)",
+    "pork"
+  ],
+  "vegetables": [
+    "garlic",
+    "onion",
+    "bay leaves",
+    "black peppercorn"
+  ]
+}

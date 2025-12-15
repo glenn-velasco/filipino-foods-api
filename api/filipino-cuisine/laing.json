@@ -1,0 +1,15 @@
+{
+  "name": "Laing",
+  "description": "Laing is a spicy vegetable dish originating from the Bicol region. It is made from dried taro (gabi) leaves simmered in thick coconut milk and spiced with labuyo chili peppers. Authentic Laing is creamy and spicy, and it is crucial not to stir the dish during the first part of cooking to prevent the leaves from causing an itchy sensation in the throat.",
+  "meat": [
+    "pork belly",
+    "shrimp paste (bagoong)"
+  ],
+  "vegetables": [
+    "dried taro leaves",
+    "chili peppers",
+    "garlic",
+    "ginger",
+    "onion"
+  ]
+}

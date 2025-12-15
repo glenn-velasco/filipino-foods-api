@@ -1,0 +1,13 @@
+{
+  "name": "Bistek Tagalog",
+  "description": "Bistek Tagalog is the Filipino version of beef steak. Thinly sliced beef is marinated in soy sauce and calamansi (Philippine lime), then pan-fried and topped with fresh, raw, or caramelized onion rings. The balance of salty soy sauce and citrusy calamansi defines its flavor.",
+  "meat": [
+    "beef sirloin"
+  ],
+  "vegetables": [
+    "red onion",
+    "white onion",
+    "garlic",
+    "calamansi"
+  ]
+}

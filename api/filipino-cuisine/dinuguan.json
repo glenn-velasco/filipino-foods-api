@@ -1,0 +1,16 @@
+{
+  "name": "Dinuguan",
+  "description": "Dinuguan is a dark, savory stew made from pork offal (typically lungs, kidneys, intestines, ears, heart, and snout) simmered in a rich, spicy gravy of pig blood, garlic, chili, and vinegar. It is sometimes jokingly referred to as 'chocolate meat' due to its color. It is best paired with Puto (steamed rice cake).",
+  "meat": [
+    "pork",
+    "pork blood",
+    "pork intestines",
+    "pork lungs"
+  ],
+  "vegetables": [
+    "garlic",
+    "onion",
+    "green long chili (siling haba)",
+    "bay leaves"
+  ]
+}
