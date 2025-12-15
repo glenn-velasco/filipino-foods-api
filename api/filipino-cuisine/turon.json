@@ -1,0 +1,9 @@
+{
+  "name": "Turon",
+  "description": "Turon is a popular street food snack made of thinly sliced saba bananas (and often a slice of jackfruit) dusted with brown sugar, rolled in a spring roll wrapper, and deep-fried. The sugar caramelizes during frying, creating a sticky, crunchy glaze coating the crisp wrapper.",
+  "meat": [],
+  "vegetables": [
+    "saba banana",
+    "jackfruit (langka)"
+  ]
+}

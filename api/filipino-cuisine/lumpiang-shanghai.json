@@ -1,0 +1,15 @@
+{
+  "name": "Lumpiang Shanghai",
+  "description": "Lumpiang Shanghai is the Filipino version of spring rolls. It is filled with a mixture of ground pork, minced carrots, and onions, rolled in a thin crepe-like wrapper, and deep-fried until golden and crunchy. It is a staple at every Filipino gathering and is usually served with a sweet and sour dipping sauce.",
+  "meat": [
+    "ground pork",
+    "shrimp (optional)"
+  ],
+  "vegetables": [
+    "carrots",
+    "onion",
+    "garlic",
+    "celery",
+    "parsley"
+  ]
+}

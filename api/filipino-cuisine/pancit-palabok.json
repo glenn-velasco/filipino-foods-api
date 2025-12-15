@@ -1,0 +1,14 @@
+{
+  "name": "Pancit Palabok",
+  "description": "Pancit Palabok uses thin rice noodles topped with a thick, golden-orange sauce made from shrimp broth and annatto seeds. It is garnished with a variety of toppings including crushed chicharon (pork rinds), tinapa (smoked fish flakes), hard-boiled eggs, and scallions. It has a rich, savory seafood flavor.",
+  "meat": [
+    "shrimp",
+    "pork cracklings (chicharon)",
+    "smoked fish (tinapa)"
+  ],
+  "vegetables": [
+    "scallions",
+    "garlic (fried)",
+    "calamansi"
+  ]
+}

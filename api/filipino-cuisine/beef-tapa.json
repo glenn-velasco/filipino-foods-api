@@ -1,0 +1,11 @@
+{
+  "name": "Beef Tapa",
+  "description": "Beef Tapa consists of thinly sliced beef that is cured or dried with salt and spices. In the Philippines, it is often marinated in soy sauce, calamansi, garlic, and sugar, then fried. It is the centerpiece of the popular 'Tapsilog' breakfast (Tapa, Sinangag/fried rice, and Itlog/egg).",
+  "meat": [
+    "beef sirloin"
+  ],
+  "vegetables": [
+    "garlic",
+    "calamansi"
+  ]
+}

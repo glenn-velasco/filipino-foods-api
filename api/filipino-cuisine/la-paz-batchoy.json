@@ -1,0 +1,15 @@
+{
+  "name": "La Paz Batchoy",
+  "description": "Originating from La Paz, Iloilo, Batchoy is a noodle soup made with pork offal, crushed pork cracklings, chicken stock, beef loin, and round noodles. Its defining characteristic is the richness of the broth, often enhanced with shrimp paste and raw egg cracked on top of the hot soup.",
+  "meat": [
+    "pork liver",
+    "pork kidney",
+    "pork cracklings (chicharon)",
+    "beef loin"
+  ],
+  "vegetables": [
+    "scallions",
+    "garlic",
+    "onion"
+  ]
+}
