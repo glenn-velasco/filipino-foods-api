@@ -1,4 +1,4 @@
-# Filipino Foods API
+# **Filipino Foods API** [Original Repository](https://github.com/charmaine-aguilar/filipino-foods-api)
 A simple API that returns a JSON of some of the most common Filipino food showcasing their ingredients and more. Users can fetch this API via localhost or remote.
 
 #### Check it out here: https://filipino-foods-api.onrender.com/
