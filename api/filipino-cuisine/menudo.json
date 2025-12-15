@@ -14,5 +14,8 @@
         "raisins",
         "garlic",
         "onion"
+    ],
+    "images": [
+        "https://raw.githubusercontent.com/glenn-velasco/filipino-foods-api/refs/heads/main/api/filipino-cuisine/images/menudo.jpg"
     ]
 }

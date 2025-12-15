@@ -13,5 +13,8 @@
         "string beans",
         "bok choy",
         "pechay"
+    ],
+    "images": [
+        "https://raw.githubusercontent.com/glenn-velasco/filipino-foods-api/refs/heads/main/api/filipino-cuisine/images/kare-kare.jpg"
     ]
 }

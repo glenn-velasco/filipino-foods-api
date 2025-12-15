@@ -11,5 +11,8 @@
         "chili peppers",
         "calamansi",
         "ginger"
+    ],
+    "images": [
+        "https://raw.githubusercontent.com/glenn-velasco/filipino-foods-api/refs/heads/main/api/filipino-cuisine/images/sisig.jpg"
     ]
 }

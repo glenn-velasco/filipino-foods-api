@@ -9,5 +9,8 @@
         "garlic",
         "onion",
         "ginger"
+    ],
+    "images": [
+        "https://raw.githubusercontent.com/glenn-velasco/filipino-foods-api/refs/heads/main/api/filipino-cuisine/images/bicolexpress.jpg"
     ]
 }

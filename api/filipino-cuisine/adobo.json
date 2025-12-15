@@ -2,5 +2,10 @@
     "name" : "Adobo",
     "description": "In the Philippines, adobo is a popular comfort food where ingredients are simmered in a mixture of vinegar, soy sauce, crushed garlic, bay leaves, and black peppercorns. The key characteristic is the use of vinegar for preservation and flavor, a practice that predates Spanish colonization, with the Spanish applying the name \"adobo\" (meaning \"marinade\" in Spanish) to the indigenous method they observed.",
     "meat": ["chicken", "pork"],
-    "vegetables": ["garlic"]
+    "vegetables": ["garlic"],
+    "images": [
+        "https://raw.githubusercontent.com/glenn-velasco/filipino-foods-api/refs/heads/main/api/filipino-cuisine/images/chickenadobo.jpg",
+        "https://raw.githubusercontent.com/glenn-velasco/filipino-foods-api/refs/heads/main/api/filipino-cuisine/images/porkadobo.jpg"
+        
+    ]
 }
