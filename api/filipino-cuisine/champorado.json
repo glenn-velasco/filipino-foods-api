@@ -1,0 +1,11 @@
+{
+  "name": "Champorado",
+  "description": "Champorado is a sweet chocolate rice porridge made with glutinous rice (malagkit) and cocoa tablets (tablea). It is traditionally served for breakfast or 'merienda' (afternoon snack). A classic way to eat it is with salty dried fish (tuyo) on the side, creating a perfect balance of sweet and salty flavors.",
+  "meat": [
+    "dried fish (tuyo)"
+  ],
+  "vegetables": [
+    "sticky rice (malagkit)",
+    "cacao tablea"
+  ]
+}

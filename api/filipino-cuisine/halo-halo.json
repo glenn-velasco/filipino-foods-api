@@ -1,0 +1,14 @@
+{
+  "name": "Halo-Halo",
+  "description": "Halo-Halo (Tagalog for 'mix-mix') is the ultimate Filipino dessert. It consists of shaved ice and evaporated milk layered with various boiled sweet beans, coconut gel (nata de coco), and fruits. It is topped with leche flan, purple yam (ube), and often a scoop of ice cream. It is typically served in a tall glass and mixed thoroughly before eating.",
+  "meat": [],
+  "vegetables": [
+    "sweet kidney beans",
+    "garbanzos",
+    "sweet potato (kamote)",
+    "coconut sport (macapuno)",
+    "purple yam (ube)",
+    "jackfruit (langka)",
+    "saba banana"
+  ]
+}

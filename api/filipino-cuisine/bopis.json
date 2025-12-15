@@ -1,0 +1,16 @@
+{
+  "name": "Bopis",
+  "description": "Bopis is a spicy and savory dish made from minced pork lungs and heart, sautéed in tomatoes, chilies, and onions. It has a unique texture and is very popular as a 'pulutan' (food eaten with alcohol) or as a main dish with rice. It is known for its strong, rich flavor.",
+  "meat": [
+    "pork lungs",
+    "pork heart"
+  ],
+  "vegetables": [
+    "carrot",
+    "onion",
+    "garlic",
+    "chili peppers",
+    "bell peppers",
+    "annatto (atsuete)"
+  ]
+}

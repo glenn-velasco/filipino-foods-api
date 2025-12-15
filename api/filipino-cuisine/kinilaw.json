@@ -1,0 +1,16 @@
+{
+  "name": "Kinilaw",
+  "description": "Kinilaw is a raw seafood dish similar to ceviche. Fresh fish (like tuna or tanigue) is 'cooked' in vinegar and citrus juices (calamansi). Unlike ceviche, authentic Filipino Kinilaw often includes coconut milk to balance the acidity and is spiced with ginger, onions, and chili peppers.",
+  "meat": [
+    "tuna",
+    "tanigue (spanish mackerel)",
+    "pork belly (grilled, for Sinuglaw)"
+  ],
+  "vegetables": [
+    "ginger",
+    "red onion",
+    "cucumber",
+    "chili peppers",
+    "calamansi"
+  ]
+}
