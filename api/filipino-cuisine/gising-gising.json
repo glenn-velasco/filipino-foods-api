@@ -12,7 +12,7 @@
     "garlic",
     "onion"
   ],
-  "images": {
+  "images": [
     "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/gising-gising.jpg?raw=true"
-  }
+  ]
 }
