@@ -1,0 +1,5 @@
+{
+    "name": "Pancit",
+    "meat": ["chicken", "pork", "crab", "mussels"],
+    "vegetables": ["garlic", "onion", "bell peppers", "cabbage", "string beans"]
+}
