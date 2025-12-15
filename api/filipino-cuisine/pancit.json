@@ -1,5 +1,6 @@
 {
     "name": "Pancit",
+    "description": "Pansit (or pancit) is a general term for various traditional Filipino noodle dishes, which originated from Chinese immigrants and have become a staple in Filipino cuisine. It is often served at celebrations, particularly birthdays, as the long noodles symbolize a long and healthy life.",
     "meat": ["chicken", "pork", "crab", "mussels"],
     "vegetables": ["garlic", "onion", "bell peppers", "cabbage", "string beans"]
 }
