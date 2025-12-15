@@ -1,0 +1,20 @@
+{
+    "name": "Sinigang",
+    "description": "Sinigang is a sour soup native to the Philippines, famous for its savory and sour flavor profile usually derived from tamarind (sampaloc). It is widely considered a comfort food and, by many, the true national dish of the Philippines due to its indigenous origins before Spanish colonization.",
+    "meat": [
+        "pork",
+        "beef",
+        "shrimp",
+        "fish"
+    ],
+    "vegetables": [
+        "kangkong (water spinach)",
+        "radish",
+        "eggplant",
+        "string beans",
+        "okra",
+        "taro",
+        "tomato",
+        "onion"
+    ]
+}
