@@ -1,0 +1,18 @@
+{
+    "name": "Pinakbet",
+    "description": "Pinakbet (or Pakbet) is an indigenous dish from the northern regions of the Philippines (Ilocos). It is made from mixed vegetables steamed in fish or shrimp sauce. The word is derived from the Ilocano word 'pinakebbet', meaning 'shrunk' or 'shriveled'.",
+    "meat": [
+        "pork belly",
+        "shrimp"
+    ],
+    "vegetables": [
+        "bitter melon",
+        "eggplant",
+        "squash",
+        "string beans",
+        "okra",
+        "tomato",
+        "onion",
+        "ginger"
+    ]
+}

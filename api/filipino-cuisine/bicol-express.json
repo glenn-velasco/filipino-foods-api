@@ -1,0 +1,13 @@
+{
+    "name": "Bicol Express",
+    "description": "Named after the passenger train service from Manila to the Bicol region, this dish is a spicy stew made with long chilies (siling haba), coconut milk, shrimp paste, and pork. It is one of the few truly spicy dishes in traditional Filipino cuisine.",
+    "meat": [
+        "pork"
+    ],
+    "vegetables": [
+        "chili peppers",
+        "garlic",
+        "onion",
+        "ginger"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Menudo",
+    "description": "Menudo is a tomato-based stew that is a staple at Filipino fiestas and gatherings. Unlike its Mexican namesake (which is a tripe soup), Filipino Menudo is made with diced pork and liver. It is often distinguished by the inclusion of raisins and chickpeas.",
+    "meat": [
+        "pork",
+        "liver",
+        "hotdog"
+    ],
+    "vegetables": [
+        "potato",
+        "carrots",
+        "bell peppers",
+        "green peas",
+        "raisins",
+        "garlic",
+        "onion"
+    ]
+}

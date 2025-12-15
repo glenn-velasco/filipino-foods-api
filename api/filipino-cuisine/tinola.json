@@ -1,0 +1,16 @@
+{
+    "name": "Tinola",
+    "description": "Tinola is a ginger-based soup typically cooked with chicken, wedges of green papaya (or chayote), and leafy vegetables like chili pepper leaves or malunggay. It is a refreshing dish often served to help boost the immune system or during rainy weather.",
+    "meat": [
+        "chicken"
+    ],
+    "vegetables": [
+        "green papaya",
+        "chayote",
+        "chili leaves",
+        "malunggay leaves",
+        "ginger",
+        "garlic",
+        "onion"
+    ]
+}

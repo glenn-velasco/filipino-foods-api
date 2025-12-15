@@ -1,0 +1,16 @@
+{
+    "name": "Nilaga",
+    "description": "Nilaga translates literally to 'boiled'. It is a simple, mild soup typically made with beef shanks or pork, boiled until tender with vegetables. It is a very straightforward dish that relies on the quality of the meat and the freshness of the vegetables for flavor.",
+    "meat": [
+        "beef",
+        "pork"
+    ],
+    "vegetables": [
+        "cabbage",
+        "potato",
+        "corn",
+        "pechay",
+        "green beans",
+        "onion"
+    ]
+}

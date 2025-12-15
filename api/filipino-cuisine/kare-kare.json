@@ -1,0 +1,17 @@
+{
+    "name": "Kare-Kare",
+    "description": "Kare-Kare is a rich stew made with a thick savory peanut sauce. It is traditionally made from oxtail, tripe, and pork hocks. The dish is naturally bland on its own, which is why it is always served with a side of sautéed shrimp paste (bagoong) to provide a salty contrast.",
+    "meat": [
+        "oxtail",
+        "beef tripe",
+        "pork hocks",
+        "beef shank"
+    ],
+    "vegetables": [
+        "banana heart",
+        "eggplant",
+        "string beans",
+        "bok choy",
+        "pechay"
+    ]
+}

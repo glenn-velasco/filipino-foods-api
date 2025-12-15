@@ -1,0 +1,15 @@
+{
+    "name": "Sisig",
+    "description": "Originating from Pampanga, the culinary capital of the Philippines, Sisig is made from chopped pig parts (ears, face) and chicken liver, seasoned with calamansi, onions, and chili peppers. It is arguably the most popular 'pulutan' (bar chow) in the country.",
+    "meat": [
+        "pork mask (ears/face)",
+        "chicken liver",
+        "pork belly"
+    ],
+    "vegetables": [
+        "onion",
+        "chili peppers",
+        "calamansi",
+        "ginger"
+    ]
+}
