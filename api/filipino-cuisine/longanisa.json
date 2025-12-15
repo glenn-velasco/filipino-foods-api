@@ -1,0 +1,12 @@
+{
+  "name": "Longganisa",
+  "description": "Longganisa is the Filipino version of a sausage, typically served for breakfast with garlic rice and eggs (Longsilog). Regional variations exist across the Philippines: 'Hamonado' versions are sweet and red (common in Pampanga), while 'Derecado' versions are garlicky, spicy, and vinegar-heavy (common in Vigan and Lucban).",
+  "meat": [
+    "pork",
+    "pork fat"
+  ],
+  "vegetables": [
+    "garlic",
+    "black pepper"
+  ]
+}

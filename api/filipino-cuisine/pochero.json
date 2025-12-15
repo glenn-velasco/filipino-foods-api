@@ -1,0 +1,17 @@
+{
+  "name": "Pochero",
+  "description": "Pochero is a festive stew similar to Nilaga but cooked in a tomato-based broth with bananas (saba) and chickpeas (garbanzos). The addition of plantains gives the broth a subtle sweetness that distinguishes it from other tomato-based stews like Afritada or Mechado.",
+  "meat": [
+    "pork belly",
+    "beef shank",
+    "chorizo"
+  ],
+  "vegetables": [
+    "saba banana (plantain)",
+    "chickpeas (garbanzos)",
+    "cabbage",
+    "pechay",
+    "green beans",
+    "potato"
+  ]
+}

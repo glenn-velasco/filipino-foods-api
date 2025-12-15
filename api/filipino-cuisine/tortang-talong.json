@@ -1,0 +1,13 @@
+{
+  "name": "Tortang Talong",
+  "description": "Tortang Talong is a roasted eggplant omelet. The eggplant is first grilled until the skin is charred and peeled off, leaving the smoky flesh intact. It is then flattened, dipped in a beaten egg mixture, and pan-fried. It is often served as a simple meal or paired with banana ketchup.",
+  "meat": [
+    "ground pork (optional)"
+  ],
+  "vegetables": [
+    "eggplant",
+    "onion",
+    "garlic",
+    "tomato"
+  ]
+}

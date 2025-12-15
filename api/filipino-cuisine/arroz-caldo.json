@@ -1,0 +1,13 @@
+{
+  "name": "Arroz Caldo",
+  "description": "Arroz Caldo literally translates to 'warm rice'. It is a thick chicken rice porridge heavily infused with ginger and garnished with toasted garlic, scallions, and calamansi. It is the go-to meal for anyone feeling under the weather or for a warm breakfast on a cold day.",
+  "meat": [
+    "chicken"
+  ],
+  "vegetables": [
+    "ginger",
+    "garlic",
+    "scallions (spring onions)",
+    "calamansi"
+  ]
+}

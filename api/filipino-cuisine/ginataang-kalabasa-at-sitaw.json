@@ -1,0 +1,15 @@
+{
+  "name": "Ginataang Kalabasa at Sitaw",
+  "description": "Ginataang Kalabasa at Sitaw is a creamy vegetable stew made with squash (kalabasa) and string beans (sitaw) cooked in coconut milk (gata). It is often cooked with shrimp or pork for added flavor. The natural sweetness of the squash pairs perfectly with the salty shrimp paste usually added to the sauce.",
+  "meat": [
+    "shrimp",
+    "pork"
+  ],
+  "vegetables": [
+    "squash (kalabasa)",
+    "string beans (sitaw)",
+    "onion",
+    "garlic",
+    "ginger"
+  ]
+}
