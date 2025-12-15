@@ -9,5 +9,8 @@
     "white onion",
     "garlic",
     "calamansi"
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/glenn-velasco/filipino-foods-api/refs/heads/main/api/filipino-cuisine/images/bistek-tagalog.jpg"
   ]
 }

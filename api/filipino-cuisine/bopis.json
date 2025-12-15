@@ -12,5 +12,8 @@
     "chili peppers",
     "bell peppers",
     "annatto (atsuete)"
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/glenn-velasco/filipino-foods-api/refs/heads/main/api/filipino-cuisine/images/bopis.jpg"
   ]
 }

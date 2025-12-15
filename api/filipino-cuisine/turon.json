@@ -5,5 +5,8 @@
   "vegetables": [
     "saba banana",
     "jackfruit (langka)"
+  ],
+  "images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/turon.jpg?raw=true"
   ]
 }
