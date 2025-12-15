@@ -10,5 +10,8 @@
     "onion",
     "bay leaves",
     "black peppercorn"
+  ],
+  "images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/lechon-paksiw.jpg?raw=true"
   ]
 }

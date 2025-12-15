@@ -12,5 +12,8 @@
     "cucumber",
     "chili peppers",
     "calamansi"
+  ],
+  "images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/kinilaw.jpg?raw=true"
   ]
 }

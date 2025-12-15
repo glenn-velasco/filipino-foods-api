@@ -11,5 +11,8 @@
     "scallions",
     "garlic",
     "onion"
+  ],
+  "images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/la-paz-batchoy.jpg?raw=true"
   ]
 }

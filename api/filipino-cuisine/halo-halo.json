@@ -10,5 +10,8 @@
     "purple yam (ube)",
     "jackfruit (langka)",
     "saba banana"
+  ],
+  "images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/halo-halo.jpg?raw=true"
   ]
 }

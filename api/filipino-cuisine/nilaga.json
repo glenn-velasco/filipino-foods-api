@@ -12,5 +12,8 @@
         "pechay",
         "green beans",
         "onion"
+    ],
+    "images": [
+        "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/nilaga.jpg?raw=true"
     ]
 }

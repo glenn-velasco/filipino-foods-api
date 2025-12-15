@@ -12,5 +12,8 @@
     "onion",
     "green long chili (siling haba)",
     "bay leaves"
+  ],
+  "images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/dinuguan.jpg?raw=true"
   ]
 }

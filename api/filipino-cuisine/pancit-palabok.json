@@ -10,5 +10,8 @@
     "scallions",
     "garlic (fried)",
     "calamansi"
+  ],
+  "images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/pancit-palabok.jpg?raw=true"
   ]
 }

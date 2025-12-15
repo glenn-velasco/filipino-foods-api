@@ -11,5 +11,8 @@
     "onion",
     "garlic",
     "ginger"
+  ],
+  "images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/gintaang-sitaw-at-kalabasa.jpg?raw=true"
   ]
 }

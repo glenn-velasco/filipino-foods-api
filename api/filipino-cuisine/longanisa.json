@@ -8,5 +8,8 @@
   "vegetables": [
     "garlic",
     "black pepper"
+  ],
+  "images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/longannisa.jpg?raw=true"
   ]
 }

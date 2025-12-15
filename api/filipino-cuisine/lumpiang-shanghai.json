@@ -11,5 +11,8 @@
     "garlic",
     "celery",
     "parsley"
+  ],
+  "images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/lumpiang-shanghai.jpg?raw=true"
   ]
 }
