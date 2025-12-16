@@ -16,5 +16,8 @@
         "taro",
         "tomato",
         "onion"
+    ],
+    "images": [
+        "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/sinigang.jpg?raw=true"
     ]
 }

@@ -13,5 +13,8 @@
     "pechay",
     "green beans",
     "potato"
+  ],
+  "images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/pochero.jpg?raw=true"
   ]
 }

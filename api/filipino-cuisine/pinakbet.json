@@ -14,5 +14,8 @@
         "tomato",
         "onion",
         "ginger"
+    ],
+    "images": [
+        "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/pakbet.jpg?raw=true"
     ]
 }
