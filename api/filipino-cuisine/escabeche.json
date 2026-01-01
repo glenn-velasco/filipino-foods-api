@@ -1,0 +1,19 @@
+{
+    "name": "Escabeche",
+    "description": "The Filipino version of sweet and sour fish. A whole fish (usually Lapu-Lapu or Tilapia) is fried until crispy, then bathed in a sweet, tangy sauce made from vinegar, sugar, and ketchup. It is garnished with colorful strips of ginger, carrots, and bell peppers.",
+    "meat": [
+      "Lapu-Lapu (Grouper)",
+      "Tilapia",
+      "Red Snapper (Maya-Maya)"
+    ],
+    "vegetables": [
+      "ginger (julienned)",
+      "red and green bell peppers",
+      "carrots",
+      "onion",
+      "garlic"
+    ],
+    "images": [
+      "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/escabeche.jpg?raw=true"
+    ]
+}
