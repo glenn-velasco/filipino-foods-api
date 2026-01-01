@@ -1,0 +1,19 @@
+{
+    "name": "Igado",
+    "description": "A popular Ilocano dish made from strips of pork meat and liver simmered in a vinegar-soy sauce mixture with red bell peppers and green peas. It is savory and slightly tangy, known for its tender strips of meat.",
+    "meat": [
+      "pork tenderloin",
+      "pork liver",
+      "pork kidney (optional)"
+    ],
+    "vegetables": [
+      "green peas",
+      "red bell pepper",
+      "onion",
+      "garlic",
+      "bay leaves"
+    ],
+    "images": [
+      "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/igado.jpg?raw=true"
+    ]
+}
