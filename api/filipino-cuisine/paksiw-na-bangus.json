@@ -1,0 +1,17 @@
+{
+    "name": "Paksiw na Bangus",
+    "description": "Milkfish stewed in vinegar and garlic. This cooking method preserves the fish without refrigeration (historically). It has a sour and slightly salty taste, often cooked with bitter vegetables to balance the acidity of the vinegar.",
+    "meat": [
+      "milkfish (bangus)"
+    ],
+    "vegetables": [
+      "eggplant",
+      "bitter melon (ampalaya)",
+      "ginger",
+      "garlic",
+      "green chili (siling haba)"
+    ],
+    "images": [
+      "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/paksiw-na-bangus.jpg?raw=true"
+    ]
+}
