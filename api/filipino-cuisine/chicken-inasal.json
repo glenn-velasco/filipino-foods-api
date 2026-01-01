@@ -1,0 +1,17 @@
+{
+"name": "Chicken Inasal",
+"description": "A popular grilled chicken dish from Bacolod. The chicken is marinated in a mixture of calamansi, pepper, coconut vinegar, and annatto, then grilled over hot coals while being basted with the marinade and achuete oil. It has a distinct yellowish-orange color.",
+"meat": [
+    "chicken (legs or breast)",
+    "chicken skin"
+],
+"vegetables": [
+    "lemongrass (tanglad)",
+    "garlic",
+    "ginger",
+    "calamansi"
+],
+"images": [
+    "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/chicken-inasal.jpg?raw=true"
+]
+}
