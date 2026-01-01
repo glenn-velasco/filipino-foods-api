@@ -1,0 +1,21 @@
+{
+    "name": "Ginisang Monggo",
+    "description": "A humble yet nutritious mung bean stew, traditionally served on Fridays in the Philippines. The beans are sautéed with garlic, onions, and tomatoes, then simmered until soft. It is often topped with chicharon (pork cracklings) or tinapa (smoked fish) for added texture and savory flavor.",
+    "meat": [
+        "pork belly",
+        "shrimp",
+        "tinapa (smoked fish flakes)",
+        "chicharon (topping)"
+    ],
+    "vegetables": [
+        "mung beans (monggo)",
+        "malunggay leaves",
+        "ampalaya leaves (bitter melon leaves)",
+        "tomato",
+        "garlic",
+        "onion"
+    ],
+    "images": [
+        "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/ginisang-monggo.jpg?raw=true"
+    ]
+}
