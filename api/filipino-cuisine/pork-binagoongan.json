@@ -1,0 +1,18 @@
+{
+    "name": "Pork Binagoongan",
+    "description": "Crispy or stewed pork chunks cooked in sautéed shrimp paste (bagoong alamang). It is a salty and savory dish that demands a lot of white rice. The dish is often garnished with fried eggplant to cut through the richness of the pork and saltiness of the paste.",
+    "meat": [
+      "pork belly",
+      "shrimp paste (bagoong alamang)"
+    ],
+    "vegetables": [
+      "eggplant",
+      "tomato",
+      "chili peppers",
+      "garlic",
+      "onion"
+    ],
+    "images": [
+      "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/pork-binagoongan.jpg?raw=true"
+    ]
+}
