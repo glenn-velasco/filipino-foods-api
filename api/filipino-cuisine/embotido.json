@@ -1,0 +1,19 @@
+{
+    "name": "Embutido",
+    "description": "The Filipino-style meatloaf. Unlike Western meatloaf, this is wrapped in aluminum foil (traditionally banana leaves) and steamed before being fried. It is often stuffed with hard-boiled eggs and hotdogs in the center, making it a festive dish for holidays.",
+    "meat": [
+      "ground pork",
+      "hotdog",
+      "hard-boiled eggs"
+    ],
+    "vegetables": [
+      "carrots (minced)",
+      "raisins",
+      "red bell pepper",
+      "sweet pickle relish",
+      "onion"
+    ],
+    "images": [
+      "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/embutido.jpg?raw=true"
+    ]
+}
