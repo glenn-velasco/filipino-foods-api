@@ -1,0 +1,22 @@
+{
+    "name": "Chopsuey",
+    "description": "A stir-fried vegetable dish influenced by Chinese cuisine but adapted to Filipino tastes. It features a thick, savory sauce and a colorful mix of crisp vegetables. It is often served during special occasions as a healthy side to heavier meat dishes.",
+    "meat": [
+      "chicken liver",
+      "pork strips",
+      "shrimp",
+      "boiled quail eggs"
+    ],
+    "vegetables": [
+      "cauliflower",
+      "broccoli",
+      "carrots",
+      "snow peas (chicharo)",
+      "sayote",
+      "bell pepper",
+      "young corn"
+    ],
+    "images": [
+      "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/chopsuey.jpg?raw=true"
+    ]
+}
