@@ -1,0 +1,18 @@
+{
+    "name": "Sinampalukang Manok",
+    "description": "A sour chicken soup similar to Sinigang, but with a key difference: the chicken is sautéed in ginger and onion before boiling, and the soup uses young tamarind leaves and flowers for sourness rather than just the fruit extract.",
+    "meat": [
+      "chicken (bone-in)"
+    ],
+    "vegetables": [
+      "young tamarind leaves (talbos ng sampalok)",
+      "ginger",
+      "green beans (sitaw)",
+      "mustard leaves (mustasa)",
+      "onion",
+      "garlic"
+    ],
+    "images": [
+      "https://github.com/glenn-velasco/filipino-foods-api/blob/main/api/filipino-cuisine/images/sinampalukang-manok.jpg?raw=true"
+    ]
+}
