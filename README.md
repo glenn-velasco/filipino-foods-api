@@ -9,10 +9,9 @@ Node.js, Express, Render for hosting
 
 # Instructions
 ### Installation For Developers
-1. Create a new folder to store this repo's clone
-2. In the terminal, enter `git init` to initialize your repo
-3. Clone this repo locally using `git clone git@github.com:glenn-velasco/filipino-foods-api.git`
-4. (IMPORTANT) On your terminal, enter `npm install` to install necessary modules 
+1. Clone this repo locally using `git clone git@github.com:glenn-velasco/filipino-foods-api.git`
+2. On your terminal then enter cd filipino-foods-api
+3. `npm install` to install necessary modules 
 
 
 ### For Users
